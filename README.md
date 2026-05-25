@@ -19,13 +19,10 @@
 
 I'm a **Lead Engineer & Full Stack .NET Developer** with **9+ years** of experience crafting high-performance, scalable applications. I'm passionate about clean architecture, cloud-native solutions, and exploring the frontier of AI-driven development.
 
-Beyond the code editor, I create content on **YouTube**, **Medium**, and **Instagram** — sharing insights on tech, career growth, and developer life.
-
 - 🚀 **Currently:** Building enterprise-grade solutions with ASP.NET Core, React & Azure
 - - 🤖 **Exploring:** Claude AI, Agentic workflows & Vibe Coding
-  - - 🌐 **Graph Nerd:** Neo4j enthusiast — because not everything fits in a table!
-    - - ✍️ **Creator:** Sharing dev tips, tutorials & behind-the-scenes on Instagram & YouTube
-      - - ⚡ **Fun fact:** I debug with `Console.WriteLine` and I'm not ashamed of it!
+  - - 🌐 **Graph Nerd:** Neo4j enthusiast - because not everything fits in a table!
+    - - ⚡ **Fun fact:** I debug with `Console.WriteLine` and I'm not ashamed of it!
        
         - ---
 
@@ -68,8 +65,6 @@ Beyond the code editor, I create content on **YouTube**, **Medium**, and **Insta
 
         [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivarajad)
         [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shivaraja_)
-        [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@iamshivarajad)
-        [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@iamshivarajad)
         [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamshivarajad)
 
         </div>
@@ -106,7 +101,7 @@ Beyond the code editor, I create content on **YouTube**, **Medium**, and **Insta
         <!-- SECTION H: FOOTER -->
         ## 🤝 Let's Connect!
 
-        > *"Great software is built by great teams — let's build something amazing together."*
+        > *"Great software is built by great teams - let's build something amazing together."*
         >
         > I'm always open to interesting conversations, collaborations, and opportunities. Feel free to reach out!
         >
@@ -124,6 +119,6 @@ Beyond the code editor, I create content on **YouTube**, **Medium**, and **Insta
 
         ⭐ **If you like my work, consider starring my repositories!** ⭐
 
-        *Crafted with ❤️ by Shivaraja D — Lead Engineer | Full Stack .NET Developer*
+        *Crafted with ❤️ by Shivaraja D - Lead Engineer | Full Stack .NET Developer*
 
         </div>
